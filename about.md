@@ -1,18 +1,13 @@
 ---
-layout: page
-title: About
+layout: default
+title: About Hayley
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Hayley
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a first year PhD student in the department of Linguistics at Harvard University. I have a background in mathematics (MMath, University of Oxford, 2015) and computational linguistics (MS, Brandeis University, 2020), and my research explores how we can use linguistics to inform computational linguistics and NLP and vice versa. I believe that linguistics will be the key to tackling computationally hard problems such as anaphora, modality, discourse and in particular meaning "between the lines" including implicatures, presupposition and indirect answers to questions. I'm also interested applying computational thinking to linguistics, ranging from applying continuations to semantics to using deep neural language models to better understand language acquisition.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm always interested in the debate of whether we need linguistics for NLP. I'm also very interested in the question of whether NLP and language acquisition are converging &endash; whether the trending "more data and bigger models" approach to NLP will end up converging on a structure remarkably similar to how humans learn and encode language. If you ever see me in the hallways at Harvard or at a conference, feel free to stop me to chat about any of this!
 
-
-[jekyll-organization]: https://github.com/jekyll
+{% include nav.md %}
