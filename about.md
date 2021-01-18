@@ -12,6 +12,6 @@ I'm always interested in the debate of whether we need linguistics for NLP. I'm 
 
 When I'm not thinking about computational linguistics, you can usually find me in the mathematical end of semantics working on modality, anaphora or anything else with a lot of lambda calculus. I'm also currently working on a fun project involving nanosyntax for Germanic morphology.
 
-Last but not least, I'm British but I grew up in Switzerland, near Zurich, so I also speak that famously context-sensitive language of Swiss German. The ways in which Swiss German differs from Standard German always get me interested, especially in the broader context of Switzerland's unusual diglossia situation. 
+Last but not least, I'm British but I grew up in Switzerland, near Zurich, so I also speak that famously context-sensitive language of Swiss German. The ways in which Swiss German differs from Standard German is often on the back of my mind, especially in the broader context of Switzerland's unusual diglossia situation. 
 
 {% include nav.md %}
