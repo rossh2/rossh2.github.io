@@ -10,4 +10,8 @@ I'm a first year PhD student in the department of Linguistics at Harvard Univers
 
 I'm always interested in the debate of whether we need linguistics for NLP. I'm also very interested in the question of whether NLP and language acquisition are converging &endash; whether the trending "more data and bigger models" approach to NLP will end up converging on a structure remarkably similar to how humans learn and encode language. If you ever see me in the hallways at Harvard or at a conference, feel free to stop me to chat about any of this!
 
+When I'm not thinking about computational linguistics, you can usually find me in the mathematical end of semantics working on modality, anaphora or anything else with a lot of lambda calculus. I'm also currently working on a fun project involving nanosyntax for Germanic morphology.
+
+Last but not least, I'm British but I grew up in Switzerland, near Zurich, so I also speak that famously context-sensitive language of Swiss German. The ways in which Swiss German differs from Standard German always get me interested, especially in the broader context of Switzerland's unusual diglossia situation. 
+
 {% include nav.md %}
