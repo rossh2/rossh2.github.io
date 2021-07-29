@@ -1,0 +1,26 @@
+Hayley Ross:
+  name        : "Hayley Ross"
+  bio         : |
+    Linguistics PhD Student  
+    at Harvard University
+  avatar      : "/assets/images/HayleySquareHeadshot300.jpg"
+  location    : "Cambridge, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hayleyross@g.harvard.edu"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://rossh2.github.io/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-book"
+      url: "https://scholar.google.com/citations?user=UsJ_jG8AAAAJ"
+    # - label: "ORCID"
+    #   icon: "fab fa-fw fa-orcid"
+    #   url: "https://orcid.org/0000-0003-2288-3847"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rossh2/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rosshayley/"

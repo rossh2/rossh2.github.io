@@ -1,12 +1,10 @@
 ---
-layout: default
 title: Publications
 permalink: /publications/
+toc: true
 ---
 
-# Publications
-
-## Conference Proceedings
+## Conference Talks and Proceedings
 
 ### 2020
 
@@ -16,12 +14,10 @@ Hayley Ross (2020). ‘The Falsity of the Consequent in Contrastive Conditionals
 
 ## Master's Theses
 
-### Computational Linguistics
+**Computational Linguistics**
 
 Hayley Ross. 2020. ‘The Falsity of the Consequent in Contrastive Conditionals’. Master’s Thesis, Brandeis University. [\[Link\]](https://hdl.handle.net/10192/37528)
 
-### Mathematics
+**Mathematics**
 
 Hayley Ross. 2015. ‘The Iterative Conception and its Justication of Large Cardinals’. Master's Dissertation, Oxford University. [\[Link\]](/assets/publications/SetTheoryDissertation.pdf)
-
-{% include nav.md %}

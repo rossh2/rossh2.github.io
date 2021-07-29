@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// To make basic tweaks to theme’s style Sass variables can be overridden by adding to <your_project>/assets/css/main.scss before any @import lines.
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__content {
+  p, li, dl {
+    // Override default of 1em - need to use !important
+    font-size: 0.8em !important;
+  }
+  aside {
+    // But don't override in the TOC on the side as that gets too small
+    p, li, dl {
+      font-size: 1em !important;
+    }
+  }
+}
+
+.sidebar {
+  opacity: 1 !important;
+}
+
+.social-icons {
+  .fa-linkedin, .fa-github {
+    color: #3d4144 !important;
+  }
+}
