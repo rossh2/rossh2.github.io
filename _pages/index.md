@@ -19,9 +19,7 @@ sidebar:
 
 I'm a second year PhD student in the department of Linguistics at Harvard University.
 
-I'm interested in formal semantics and computational linguistics, and in particular how the two can be combined. 
-I'm doing research in theoretical and experimental semantics, but I also believe that there's a lot of scope to use linguistics to tackle issues currently outside the bounds of modern NLP. 
-One of my current sources of excitement is marrying linguistic theory with machine learning: this will open doors to problems that aren't easily solved just with more and more data, and should take us from approximate solutions to 100% confidence, accurate answers on linguistically motivated problems. 
-On the flip side, computational models can give us insight into everything from implicatures and discourse maxims to language acquisition.
+I'm interested in formal semantics and computational linguistics, and in particular how the two can be combined. My current theoretical work focuses on anaphora and indefinites. While I have an abiding love for logic and lambda calculus, I'm currently questioning whether classical logic is the right way to tackle indefinites and discourse referents. I want to spend more time pursuing modality, implicatures and in general meaning "between the lines".
 
-My current research focuses on anaphora, but modality, implicatures and just in general meaning "between the lines" are all areas that I have pursued and/or want to pursue more.
+I also believe that there's a lot of scope to use linguistics to tackle issues currently outside the bounds of modern NLP.
+One of my current sources of excitement is marrying linguistic theory with machine learning: this will open doors to problems that aren't easily solved just with more and more data, and should take us from approximate solutions to 100% confidence, accurate answers on linguistically motivated problems. 
