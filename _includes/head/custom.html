@@ -3,3 +3,7 @@
     <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
   {% endfor %}
 {% endif %}
+
+{% if page.nocrawl %}
+  <meta name="robots" content="noindex,nofollow" />
+{% endif %}

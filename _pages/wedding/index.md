@@ -2,6 +2,7 @@
 title: You're Invited to our Wedding
 permalink: /wedding/
 layout: splash
+nocrawl: true
 page_css:
   - /assets/css/wedding.css
 classes:

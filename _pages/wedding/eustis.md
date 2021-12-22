@@ -2,6 +2,7 @@
 title: Our Wedding in the US
 permalink: /wedding/eustis
 layout: single
+nocrawl: true
 author_profile: false
 page_css:
   - /assets/css/wedding.css
