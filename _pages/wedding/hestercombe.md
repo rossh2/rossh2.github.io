@@ -19,7 +19,7 @@ toc: true
 ## Overview
 
 | Venue | [Hestercombe Gardens](https://www.hestercombe.com/) |
-| Date  | 9th July 2022                                       |
+| Date  | (date here)                                         |
 | Time  | 2:00pm                                              |
 
 <a href="#" class="btn btn--primary btn--large">RSVP here</a>

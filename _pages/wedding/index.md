@@ -15,16 +15,14 @@ feature_row:
   - image_path: /assets/images/wedding/HestercombeOrangery400x300.jpg
     alt: "The Orangery at Hestercombe"
     title: "UK Wedding"
-    excerpt: "Hestercombe Gardens, Taunton, Somerset<br>
-    9th July 2022"
+    excerpt: "Hestercombe Gardens, Taunton, Somerset"
     url: "/wedding/hestercombe"
     btn_label: "More Information"
     btn_class: "btn--primary"
   - image_path: /assets/images/wedding/EustisEstateHouseWinter400x300.jpg
     alt: "Eustis Estate"
     title: "US Wedding"
-    excerpt: "Eustis Estate, Milton, MA<br>
-    11th June 2022"
+    excerpt: "Eustis Estate, Milton, MA"
     url: "/wedding/eustis"
     btn_label: "More Information"
     btn_class: "btn--primary"
