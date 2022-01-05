@@ -22,7 +22,7 @@ toc: true
 | Date  | (date here)                                         |
 | Time  | 5:00pm                                              |
 
-<a href="#" class="btn btn--primary btn--large">RSVP here</a>
+<a href="https://forms.gle/1cbQNSMAsCvfvSfEA" class="btn btn--primary btn--large">RSVP here</a>
 
 ## Detailed schedule
 
