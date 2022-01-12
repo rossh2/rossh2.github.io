@@ -10,7 +10,7 @@ classes:
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/wedding/web-banner-flowers-romantic-vintage.jpg
+  overlay_image: /assets/images/wedding/Invitation_top_banner_3600x741.png
 feature_row:
   - image_path: /assets/images/wedding/HestercombeOrangery400x300.jpg
     alt: "The Orangery at Hestercombe"

@@ -12,23 +12,30 @@
 }
 
 body, .toc {
-  background-color: #FFFCE8; /*#E2DDB0; */
+  background-color: #FFFFFF;  /*#FFFCE8; */
+}
+
+.page__footer {
+  background-image: url('/assets/images/wedding/Invitation_footer_1259x342.png');
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 .page__footer, .toc .nav__title, .btn--primary, .btn--primary:visited {
-  background-color: #CC8430;
+  background-color: #D48448; /* #CC8430; */
 }
 
 .btn--primary:hover {
-  background-color: #A55500; /* #87494D; #4A1414; */
+  background-color: #A55500; 
 }
 
 .page__hero--overlay {
-  border-bottom: 2px solid #CC8430;
+  border-bottom: 2px solid #D48448;  /* #CC8430; */
 }
 
 .sidebar img {
-  border: 1px solid #CC8430;
+  border: 2px solid #D48448;  /* 1px solid #CC8430; */
 }
 
 .page__footer footer {
