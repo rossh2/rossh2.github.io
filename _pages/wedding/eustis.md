@@ -19,7 +19,7 @@ toc: true
 ## Overview
 
 | Venue | [Eustis Estate](https://www.historicnewengland.org/property/eustis-estate-museum-study-center/) |
-| Date  | (date here)                                         |
+| Date  | 11th June 2022                                      |
 | Time  | 5:00pm                                              |
 
 <a href="https://forms.gle/1cbQNSMAsCvfvSfEA" class="btn btn--primary btn--large">RSVP here</a>
