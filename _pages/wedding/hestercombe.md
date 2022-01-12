@@ -32,7 +32,7 @@ toc: true
 | 7:30pm  | Ceilidh (barn dance)             | Bampfylde Hall            |
 | 11:00pm | Goodbyes                         |                           |
 
-
+<br/>
 Note: If you'd like to explore the gardens or take part in the lawn games, high-heeled shoes may not be the best choice! Many of the areas are grassy or only roughly paved.
 
 ## Menu
@@ -52,14 +52,14 @@ This is followed by dessert and, of course, wedding cake. Wine will be offered w
 
 ## Sunday
 
-We're also organising a casual lunch on Sunday in the centre of Taunton, if you'd like to join us and if that fits with your travel plans. Details to be announced closer to the date.
+We're also organising a casual lunch on Sunday in the centre of Taunton, if you'd like to join us and if that fits with your travel plans. Details will be announced closer to the date.
 
 ## Accommodation
 
 We have negotiated a 10% discount with the [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/gb/en/taunton/tntuk/hoteldetail) hotel in Taunton. 
 Double rooms work out at £133/night with the discount at the time of writing (£148/night at list price), including breakfast. 
 The hotel is located on the outskirts of Taunton just off the M25, and there is free parking. 
-If you would like to be part of this (and we hope you will), please let us know in the RSVP form and we'll send you the discount link.
+If you would like to be part of this, please let us know in the RSVP form and we'll send you the discount link.
 
 For people coming by train, we also recommend the [Great Western Hotel](https://thegreatwesternhotel.org/), which is located right by Taunton train station. 
 Double rooms are £110/night at the time of writing (no group discount), including breakfast, and it's a 20min walk into the city centre. 
