@@ -32,6 +32,9 @@ toc: true
 | 7:30pm  | Ceilidh (barn dance)             | Bampfylde Hall            |
 | 11:00pm | Goodbyes                         |                           |
 
+
+Note: If you'd like to explore the gardens or take part in the lawn games, high-heeled shoes may not be the best choice! Many of the areas are grassy or only roughly paved.
+
 ## Menu
 
 There will be cream tea following the wedding.  
@@ -46,6 +49,10 @@ The dinner menu includes a carved buffet:
 * Freshly baked bread
 
 This is followed by dessert and, of course, wedding cake. Wine will be offered with dinner and a bar will be available during the dancing if you wish to purchase additional alcoholic drinks. If you have any dietary restrictions, please let us know in the RSVP form.
+
+## Sunday
+
+We're also organising a casual lunch on Sunday in the centre of Taunton, if you'd like to join us and if that fits with your travel plans. Details to be announced closer to the date.
 
 ## Accommodation
 

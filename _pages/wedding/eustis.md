@@ -63,12 +63,27 @@ toc: true
 
 ## Menu
 
-The dinner menu is still being determined!
-If you have any dietary restrictions, please let us know in the RSVP form.
+We will have passed hors d'&#156;uvres with the drinks reception:
+
+* Vegetable spring roll with plum sauce
+* Smoked gouda mac and cheese bites
+* Bacon scallops with maple mustard
+* Prosciutto-wrapped honeydew melon
+
+The dinner menu includes salad and a buffet of entrées:
+
+* Mixed greens, strawberries, goat cheese, candied pecans, and poppy seed dressing
+* Braised beef short ribs
+* Chicken marsala
+* Mushroom ravioli (tentative)
+* Grilled asparagus
+* Roasted fingerling potatoes
+
+This is followed, of course, by wedding cake. Infused waters will be available to drink throughout the evening and tea and coffee will follow the meal. If you have any dietary restrictions, please let us know in the RSVP form.
 
 ## Accommodation
 
-If you need accommodation in the Boston area, please let us know in the RSVP form and we will help you find a good location.
+If you need accommodation in the Boston area, please let us know in the RSVP form and we can help you find a good location.
 
 ## How to get to Eustis Estate
 
