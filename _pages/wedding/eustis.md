@@ -94,3 +94,7 @@ Milton, MA 02186
 There is a large, free visitor parking lot next to the visitor center at the top of the driveway.
 
 If you won't have a car and would like to share a ride to Eustis Estate, let us know in the RSVP form and we'll try to connect you with someone local.
+
+## Wedding gifts
+
+If you'd like to give us a wedding gift, we have a [wedding registry](https://www.amazon.com/wedding/hayley-ross-paul-cummer--june-2022/registry/31I9YKCDJTCY3) on Amazon.com. (No need to stick to presents on the registry if you have the perfect idea.) At the time of writing, the registry is still a work in progress - check back for updates!
