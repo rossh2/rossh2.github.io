@@ -97,4 +97,4 @@ If you won't have a car and would like to share a ride to Eustis Estate, let us 
 
 ## Wedding gifts
 
-If you'd like to give us a wedding gift, we have a [wedding registry](https://www.amazon.com/wedding/hayley-ross-paul-cummer--june-2022/registry/31I9YKCDJTCY3) on Amazon.com. (No need to stick to presents on the registry if you have the perfect idea.) At the time of writing, the registry is still a work in progress - check back for updates!
+If you'd like to give us a wedding gift, we have a [wedding registry](https://www.amazon.com/wedding/hayley-ross-paul-cummer--june-2022/registry/31I9YKCDJTCY3) on Amazon. (No need to stick to presents on the registry if you have the perfect idea.) At the time of writing, the registry is still a work in progress - check back for updates!
