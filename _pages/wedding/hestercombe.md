@@ -87,4 +87,6 @@ The nearest railway station is Taunton. For more information, including detailed
 
 ## Wedding gifts
 
-Since we're flying over from the US, we'll be severely limited on luggage space to bring gifts back home. If you'd like to give us a gift at the UK wedding, please keep it small and light! Alternatively, we have a **[wedding registry](https://www.amazon.com/wedding/hayley-ross-paul-cummer--june-2022/registry/31I9YKCDJTCY3) on Amazon.com**, where you can send presents directly to our US address. (No need to stick to presents on the registry if you have the perfect idea.) At the time of writing, the registry is still a work in progress - check back for updates!
+Since we're flying over from the US, we'll be severely limited on luggage space to bring gifts back home. If you'd like to give us a gift at the UK wedding, please keep it small and light! Alternatively, we have a **[wedding registry on Amazon.com](https://www.amazon.com/wedding/hayley-ross-paul-cummer--june-2022/registry/31I9YKCDJTCY3)**, where you can send presents directly to our US address. (No need to stick to presents on the registry if you have the perfect idea.) 
+
+_Note about the Amazon registry: Certain items show as "Out of Stock". These items aren't actually out of stock, but are currently only sold by third party sellers. They may also come back in stock between now and the wedding. We'll keep an eye on this and update the registry if it happens to too many items!_
