@@ -30,7 +30,9 @@ toc: true
 | 2:30pm  | Photos, cream tea and lawn games | Lawn outside the Orangery |
 | 4:30pm  | Wedding reception dinner         | Bampfylde Hall            |
 | 7:30pm  | Ceilidh (barn dance)             | Bampfylde Hall            |
-| 11:00pm | Goodbyes                         |                           |
+| 11:00pm | Farewells                        |                           |
+
+
 
 <br/>
 Note: If you'd like to explore the gardens or take part in the lawn games, high-heeled shoes may not be the best choice! Many of the areas are grassy or only roughly paved.
@@ -52,7 +54,36 @@ This is followed by dessert and, of course, wedding cake. Wine will be offered w
 
 ## Sunday
 
-We're also organising a casual lunch on Sunday in the centre of Taunton, if you'd like to join us and if that fits with your travel plans. Details will be announced closer to the date.
+We're also organising a casual lunch on Sunday in the centre of Taunton, if you'd like to join us and if that fits with your travel plans. 
+
+Lunch is booked for **12:00pm** at [Hideout](https://www.greeneking-pubs.co.uk/pubs/somerset/hideout/) in the centre of Taunton. The address is Castle Green, Taunton, Somerset, TA1 4AE and the closest car parks are the [Crescent](https://www.somersetwestandtaunton.gov.uk/parking/car-parks-in-taunton/the-crescent-car-park/) and [Whirligig Lane](https://www.somersetwestandtaunton.gov.uk/parking/car-parks-in-taunton/whirligig-lane-car-park/) car parks.
+
+## How to get to Hestercombe
+
+We're organising a minibus which will stop at each of the above hotels (the Holiday Inn Express and the Great Western Hotel / Taunton train station) to take you to and from the wedding. 
+The minibus will depart between 1:00-1:30pm (to be confirmed) from the hotels and return at 11:00pm from Hestercombe. 
+If you would like a ride, please let us know on the RSVP form!
+
+### Minibus schedule
+
+| 1:00pm  | Minibus pickup                   | Great Western Hotel / train station |
+| 1:10pm  | Minibus pickup                   | Yallands Farmhouse        |
+| 1:30pm  | Minibus arrives                  | Hestercombe               |
+|         |                                  |                           |
+| 11:15pm | Minibus pickup                   | Hestercombe               |
+| 11:35pm | Minibus dropoff                  | Yallands Farmhouse        |
+| 11:45pm | Minibus dropoff                  | Great Western Hotel / train station |
+
+### Directions to Hestercombe
+
+**Use the postcode TA2 8LQ for GPS/sat navs**
+
+The route is marked out with brown daisy signs from the motorway all the way to Cheddon Fitzpaine.
+Upon following the sign from Cheddon Fitzpaine, stay on the main road until you reach Hestercombe Gardens. Do not take a turn onto Hestercombe Road as this will take you to the farm and not to Hestercombe Gardens.
+
+There is a car park directly at the entrance to Hestercombe, separate to the main visitor car park. Hestercombe staff will be on hand to show you where to go.
+
+The nearest railway station is Taunton. For more information, including detailed directions and a list of taxi companies, see [Hestercombe's Find Us](https://www.hestercombe.com/your-visit/find-us) page.
 
 ## Accommodation
 
@@ -67,23 +98,6 @@ There is no parking at this hotel.
 
 Let us know if you need any help booking either of these!
 If neither of these options catch your fancy, let us know since we have looked at a number of other hotels and B&Bs in and around Taunton and may be able to help you find something.
-
-## How to get to Hestercombe
-
-We're organising a minibus which will stop at each of the above hotels (the Holiday Inn Express and the Great Western Hotel / Taunton train station) to take you to and from the wedding. 
-The minibus will depart between 1:00-1:30pm (to be confirmed) from the hotels and return at 11:00pm from Hestercombe. 
-If you would like a ride, please let us know on the RSVP form!
-
-### Directions to Hestercombe
-
-**Use the postcode TA2 8LQ for GPS/sat navs**
-
-The route is marked out with brown daisy signs from the motorway all the way to Cheddon Fitzpaine.
-Upon following the sign from Cheddon Fitzpaine, stay on the main road until you reach Hestercombe Gardens. Do not take a turn onto Hestercombe Road as this will take you to the farm and not to Hestercombe Gardens.
-
-There is a car park directly at the entrance to Hestercombe, separate to the main visitor car park. Hestercombe staff will be on hand to show you where to go.
-
-The nearest railway station is Taunton. For more information, including detailed directions and a list of taxi companies, see [Hestercombe's Find Us](https://www.hestercombe.com/your-visit/find-us) page.
 
 ## Wedding gifts
 

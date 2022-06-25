@@ -55,7 +55,7 @@ toc: true
     </tr>
     <tr>
       <td>10:00pm</td>
-      <td>Goodbyes</td>
+      <td>Farewells</td>
       <td>&nbsp;</td>
     </tr>
   </tbody>
