@@ -13,15 +13,25 @@ Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprin
 
 ## Conference Talks and Proceedings
 
+### 2022
+
+**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (2022). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic. 
+
 ### 2021
 
-**Hayley Ross** (_under review_). ‘Implications of the Danish Definiteness Alternation for Concord in Nanosyntax’.
+**Hayley Ross** (_accepted for publication_). ‘Implications of the Danish Definiteness Alternation for Concord in Nanosyntax’. SinFonIJA 14 (virtual). [\[Link\]](/assets/publications/ImplicationsDanishDefinitenessNanosyntax_ProceedingsSubmission_Revised.pdf)
 
 ### 2020
 
 **Hayley Ross**, Jonathon Cai, and Bonan Min (2020). ‘Exploring Contextualized Neural Language Models for Temporal Dependency Parsing’. Pp. 8548–53 in <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. [\[Link\]](https://www.aclweb.org/anthology/2020.emnlp-main.689)
 
 **Hayley Ross** (2020). ‘The Falsity of the Consequent in Contrastive Conditionals’. in <i>Proceedings of the ESSLLI &amp; WeSSLLI Student Session 2020</i>. Brandeis University, Waltham, MA. [\[Link\]](https://www.brandeis.edu/nasslli2020/pdfs/student-session-proceedings-compressed.pdf)
+
+## Manuscripts and Work in Progress
+
+I wrote a squib on demonstratives and strong definites in German and Swiss German, which contains a more comprehensive overview of the data in Standard and Swiss German than I am aware of in any other literature. While the theoretical implications remain to be worked out, I provide the squib below so that other people may work with the data.
+
+**Hayley Ross** (2022). ‘The landscape of German definites and demonstratives’. Squib for LING 207, Topics in Semantics, taught by Gennaro Chierchia and Yağmur Sağ in Spring 2022.  [\[Link\]](/assets/publications/GermanDemonstratives-Squib_revised.pdf)
 
 ## Master's Theses
 
