@@ -29,7 +29,7 @@ Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprin
 
 ## Manuscripts and Work in Progress
 
-I wrote a squib on demonstratives and strong definites in German and Swiss German, which contains a more comprehensive overview of the data in Standard and Swiss German than I am aware of in any other literature. While the theoretical implications remain to be worked out, I provide the squib below so that other people may work with the data.
+I wrote a squib on demonstratives and strong definites in German and Swiss German, which contains a more comprehensive overview of the data in Standard and Swiss German than I'm aware of in any other literature. While the theoretical implications remain to be worked out, I've provided the squib below so that other people may work with the data.
 
 **Hayley Ross** (2022). ‘The landscape of German definites and demonstratives’. Squib for LING 207, Topics in Semantics, taught by Gennaro Chierchia and Yağmur Sağ in Spring 2022.  [\[Link\]](/assets/publications/GermanDemonstratives-Squib_revised.pdf)
 
