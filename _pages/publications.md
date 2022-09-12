@@ -8,7 +8,7 @@ toc: true
 
 ### 2021
 
-Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2021). ‘Recent Advances in Natural Language
+Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2021 / _under review_). ‘Recent Advances in Natural Language
 Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprint arXiv:2111.01243](https://arxiv.org/abs/2111.01243)</i>.
 
 ## Conference Talks and Proceedings
