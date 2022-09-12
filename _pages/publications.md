@@ -15,7 +15,7 @@ Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprin
 
 ### 2022
 
-**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (2022). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic. 
+**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (2022). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf)
 
 ### 2021
 
