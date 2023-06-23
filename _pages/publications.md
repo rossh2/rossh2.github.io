@@ -29,12 +29,4 @@ I wrote a squib on demonstratives and strong definites in German and Swiss Germa
 
 **Hayley Ross** (2022). ‘The landscape of German definites and demonstratives’. Squib for LING 207, Topics in Semantics, taught by Gennaro Chierchia and Yağmur Sağ in Spring 2022.  [\[Link\]](/assets/publications/GermanDemonstratives-Squib_revised.pdf)
 
-## Master's Theses
 
-**Computational Linguistics**
-
-Hayley Ross. 2020. ‘The Falsity of the Consequent in Contrastive Conditionals’. Master’s Thesis, Brandeis University. [\[Link\]](https://hdl.handle.net/10192/37528)
-
-**Mathematics**
-
-Hayley Ross. 2015. ‘The Iterative Conception and its Justification of Large Cardinals’. Master's Dissertation, Oxford University. [\[Link\]](/assets/publications/SetTheoryDissertation.pdf)
