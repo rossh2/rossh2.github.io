@@ -4,22 +4,18 @@ permalink: /publications/
 toc: true
 ---
 
-## Papers
+## Papers, Conference Talks and Proceedings
 
-### 2021
+### 2023
 
-Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2021 / _under review_). ‘Recent Advances in Natural Language
+Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (_accepted for publication at ACM Computing Surveys; preprint published 2021_). ‘Recent Advances in Natural Language
 Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprint arXiv:2111.01243](https://arxiv.org/abs/2111.01243)</i>.
 
-## Conference Talks and Proceedings
+**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (_accepted for publication_). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf) [\[Paper (preprint)\]](/assets/publications/Ross-et-al_SuB_Crossover_Proceedings.pdf)
 
 ### 2022
 
-**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (2022). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf) [\[Paper (preprint)\]](/assets/publications/Ross-et-al_SuB_Crossover_Proceedings.pdf)
-
-### 2021
-
-**Hayley Ross** (_accepted for publication_). ‘Implications of the Danish Definiteness Alternation for Concord in Nanosyntax’. SinFonIJA 14 (virtual). [\[Link\]](/assets/publications/ImplicationsDanishDefinitenessNanosyntax_ProceedingsSubmission_Revised.pdf)
+**Hayley Ross** (2022). ‘Implications of the Danish Definiteness Alternation for Concord in Nanosyntax’. SinFonIJA 14 (virtual). [\[Link\]](https://godisnjak.ff.uns.ac.rs/index.php/gff/article/view/2270/2211)
 
 ### 2020
 
@@ -41,4 +37,4 @@ Hayley Ross. 2020. ‘The Falsity of the Consequent in Contrastive Conditionals�
 
 **Mathematics**
 
-Hayley Ross. 2015. ‘The Iterative Conception and its Justication of Large Cardinals’. Master's Dissertation, Oxford University. [\[Link\]](/assets/publications/SetTheoryDissertation.pdf)
+Hayley Ross. 2015. ‘The Iterative Conception and its Justification of Large Cardinals’. Master's Dissertation, Oxford University. [\[Link\]](/assets/publications/SetTheoryDissertation.pdf)
