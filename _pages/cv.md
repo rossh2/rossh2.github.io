@@ -3,7 +3,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Click to here to download my CV](/assets/CV_online.pdf)
+Click to download my [one-page resume](/assets/HayleyRossResume.pdf) or my [academic CV](/assets/CV_online.pdf).
 
 ## Code Samples
 
