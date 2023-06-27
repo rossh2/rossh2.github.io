@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Welcome
+title: Home
 layout: single
 author_profile: false
 header:
@@ -17,11 +17,12 @@ sidebar:
   
 ---
 
-I'm a third year PhD student studying Linguistics at Harvard University.
+I'm a PhD student studying Linguistics at Harvard University, with a focus on computational linguistics and semantics.
 
-My dream is to combine theoretical semantics and computational linguistics. I have a deep love for logic and lambda calculus, and my current theoretical work focuses on anaphora and crossover.
-I also believe that there's a lot of scope to use linguistics, in particular semantics, to tackle issues currently outside the bounds of modern NLP. 
+I’m interested in how we can use linguistics and experimental data to pin down language models' capabilities and limitations and develop ways to improve them. 
+Language models like ChatGPT have taken the world by storm, but we're still far from understanding how they actually achieve such impressive performance on a wide range of real-life tasks &endash; and why they still fail to handle important aspects of language meaning ranging from seemingly [simple](http://arxiv.org/abs/2306.08189) [negation](https://aclanthology.org/2022.coling-1.272) to more subtle problems like [entity tracking](https://arxiv.org/abs/2305.02363). I'm currently investigating whether large language models understand compositionality, focusing on whether they're able to generalize to new cases of adjective-noun composition.
 
-Linguistics lets us shed light on the true capabilities of large language models by letting us probe what specific structures and phenomena language models can and cannot capture. I'm currently investigating whether large language models understand compositionality and the syntax-semantic mapping, focusing on adjective composition.
+Language models also provide an intriguing window into human linguistic behaviour. In cases where human &ldquo;snap&rdquo; judgements or online processing measures diverge from their final conclusions, language model surprisal can provide a [remarkably good account of human behaviour](https://doi.org/10.1162/nol_a_00105), suggesting humans may be be using distributional information in these cases. They might also provide insight in cases where human judgements are [context-sensitive or otherwise fuzzy](https://arxiv.org/pdf/2106.08694) as opposed to following strict theoretical rules.
 
-Marrying linguistic theory with machine learning may also open doors to problems that aren't easily solved just with more and more data. We can use linguistic typology to structure cross-lingual transfer learning, and enforce syntactic, semantic or pragmatic structure in systems to guarantee well-formed outputs, add explainability, or achieve that last mile of accuracy that can't be reached with statistical patterns alone.
+In additional to language models, I also work on experimental semantics: working with Kathryn Davidson and Gennaro Chierchia, we're developing a [robust experiment design](/assets/publications/Ross-et-al_SuB_Crossover_Proceedings.pdf) to test pronoun reference in crossover configurations, which are the subject of much theoretical literature and remarkably divided opinions on whether crossover applies to non-standard cases like indefinites or relative clauses.
+
