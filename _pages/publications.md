@@ -8,8 +8,11 @@ toc: true
 
 ### 2023
 
-Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (_accepted for publication at ACM Computing Surveys; preprint published 2021_). ‘Recent Advances in Natural Language
-Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprint arXiv:2111.01243](https://arxiv.org/abs/2111.01243)</i>.
+Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey. ACM Computing Surveys. [https://doi.org/10.1145/3605943](https://doi.org/10.1145/3605943) [arXiv preprint (2021)](https://arxiv.org/abs/2111.01243)
+
+
+Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). ‘Recent Advances in Natural Language
+Processing via Large Pre-Trained Language Models: A Survey.’ <i>[arXiv preprint arXiv:2111.01243](https://arxiv.org/abs/2111.01243)</i>. [https://dl.acm.org/doi/10.1145/3605943]
 
 **Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (_accepted for publication_). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf) [\[Paper (preprint)\]](/assets/publications/Ross-et-al_SuB_Crossover_Proceedings.pdf)
 
