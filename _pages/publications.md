@@ -8,7 +8,7 @@ toc: true
 
 ### 2023
 
-Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey. ACM Computing Surveys. [https://doi.org/10.1145/3605943](https://doi.org/10.1145/3605943) [arXiv preprint (2021)](https://arxiv.org/abs/2111.01243)
+Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey. ACM Computing Surveys. [https://doi.org/10.1145/3605943](https://doi.org/10.1145/3605943) [\[arXiv preprint (2021)\]](https://arxiv.org/abs/2111.01243)
 
 
 Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). ‘Recent Advances in Natural Language
