@@ -3,12 +3,12 @@ title: CV
 permalink: /cv/
 ---
 
-Click to download my [one-page resume](/assets/HayleyRossResume.pdf) or my [academic CV](/assets/CV_online.pdf).
+Click to download my **[one-page resume](/assets/HayleyRossResume.pdf)** or my **[academic CV](/assets/CV_online.pdf)**.
 
-## Code Samples
+## Code Portfolio
 
 * **Temporal Dependency Parsing**, for Ross et al. (2020): [GitHub](https://github.com/bnmin/tdp_ranking)   
-(This code was written during an internship and uploaded to GitHub by the project's PI, but almost all the code in this repository was written by my hand.)
+(This code was written during an internship and uploaded to GitHub by the project's PI, but almost all the code in this repository was written by me.)
 
 * **GPT-3 Implicature Probing**: [GitHub](https://github.com/rossh2/gpt3-implicature-probing)
 

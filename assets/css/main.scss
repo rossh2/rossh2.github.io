@@ -6,13 +6,26 @@
 
 @charset "utf-8";
 
-$primary-color: #25587c;
-// #25647c; // brighter
-// #18607c; // brighter and more saturated
+$primary-color: #1F3D6B;
+$background-color: #FCFCFC;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+
+.page__hero {
+	&--overlay {
+		padding: 2em 0;
+		
+		.page__title {
+			margin-bottom: 0em;
+			visibility: hidden;
+		}
+	}
+	
+	
+}
 
 
 .page__content {
