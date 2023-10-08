@@ -9,7 +9,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/StableDiffusionAbstractBanner1.png
+  overlay_image: /assets/images/StableDiffusionAbstractBanner2.png
 sidebar:
   - image: /assets/images/ConnemaraRoundstoneHarbour_small.jpg
     image_alt: "A picture of Hayley at Roundstone Harbour in Connemara, Ireland"
