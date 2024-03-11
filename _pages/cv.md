@@ -3,7 +3,7 @@ title: CV
 permalink: /cv/
 ---
 
-Click to download my **[one-page resume](/assets/HayleyRossResume.pdf)** or email me to ask for my **academic CV**.
+Click to download my **[one-page resume](/assets/HayleyRossResume.pdf)** or my **[academic CV](/assets/HayleyRossCV-2024.pdf)**.
 
 ## Code Portfolio
 
