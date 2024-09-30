@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-I'm a fourth year PhD student studying Linguistics at Harvard University, with a focus on computational linguistics and semantics.
+I'm a fifth year PhD student studying Linguistics at Harvard University, with a focus on computational linguistics and semantics.
 
 I’m interested in how we can **use linguistics and experimental data to pin down language models' capabilities and limitations** and develop ways to improve them. 
 Language models like ChatGPT have taken the world by storm, but we're still far from understanding how they actually achieve such impressive performance on a wide range of real-life tasks &ndash; and why they still fail to handle important aspects of language meaning ranging from seemingly [simple](http://arxiv.org/abs/2306.08189) [negation](https://aclanthology.org/2022.coling-1.272) to more subtle problems like [entity tracking](https://arxiv.org/abs/2305.02363). Studying their behaviour compared to human performance is the first step in identifying where they fall short, what kind of in-built biases they have (or don't have) and how we can improve them. This may involve &ldquo;[inoculating](https://aclanthology.org/N19-1225/)&rdquo; their pretraining data with small sets of carefully designed sentences showing the requisite phenomena, fine-tuning, or even building appropriate [biases](https://openreview.net/forum?id=YmA86Zo-P_t) into the network architecture itself. But we won't know what we need to fix until we map out where they fall short. 
