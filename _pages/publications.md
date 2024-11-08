@@ -6,11 +6,18 @@ toc: true
 
 ## Papers, Conference Talks and Proceedings
 
+### 2024
+
+**Hayley Ross**, Kathryn Davidson and Najoung Kim (accepted for publication). ‘Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution’. Proceedings of the 2nd GenBench Workshop on (Benchmarking) Generalisation in NLP. Association for Computational Linguistics, Miami, United States. [\[Slides\]](https://docs.google.com/presentation/d/164-qw81zR8bpiLyC5pL1emIb1L34PvMnlJZF7awS4Qo/edit?usp=sharing) [\[Preprint\]](https://arxiv.org/abs/2410.17482)
+
+**Hayley Ross**, Najoung Kim and Kathryn Davidson (accepted for publication). ‘Fake reefs are sometimes reefs and sometimes not, but are always compositional’. Experiments in Linguistic Meaning 3. Philadelphia, United States. [\[Slides\]](https://docs.google.com/presentation/d/1S9PXYFUOFRAhwnx-5ELnD78BZ4OYgvDH2WEGNcIVVPs/edit?usp=sharing) [\[Preprint\]](https://lingbuzz.net/lingbuzz/008012)
+
 ### 2023
+
+**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (2023). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf) [\[Paper\]](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1085)
 
 Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz and Dan Roth (2023). Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey. ACM Computing Surveys. [https://doi.org/10.1145/3605943](https://doi.org/10.1145/3605943) [\[arXiv preprint (2021)\]](https://arxiv.org/abs/2111.01243)
 
-**Hayley Ross**, Gennaro Chierchia and Kathryn Davidson (_accepted for publication_). ‘Quantifying weak and strong crossover for _wh_-crossover and proper names’. Sinn und Bedeutung 27. Prague, Czech Republic.  [\[Slides\]](/assets/publications/Ross-et-al_SuB_Crossover_Presentation.pdf) [\[Paper\]](https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1085)
 
 ### 2022
 
