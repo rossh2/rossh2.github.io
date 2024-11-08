@@ -8,9 +8,9 @@ toc: true
 
 ### 2024
 
-**Hayley Ross**, Kathryn Davidson and Najoung Kim (accepted for publication). ‘Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution’. Proceedings of the 2nd GenBench Workshop on (Benchmarking) Generalisation in NLP. Association for Computational Linguistics, Miami, United States. [\[Slides\]](https://docs.google.com/presentation/d/164-qw81zR8bpiLyC5pL1emIb1L34PvMnlJZF7awS4Qo/edit?usp=sharing) [\[Preprint\]](https://arxiv.org/abs/2410.17482)
+**Hayley Ross**, Kathryn Davidson and Najoung Kim (_accepted for publication_). ‘Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution’. Proceedings of the 2nd GenBench Workshop on (Benchmarking) Generalisation in NLP. Association for Computational Linguistics, Miami, United States. [\[Slides\]](https://docs.google.com/presentation/d/164-qw81zR8bpiLyC5pL1emIb1L34PvMnlJZF7awS4Qo/edit?usp=sharing) [\[Preprint\]](https://arxiv.org/abs/2410.17482)
 
-**Hayley Ross**, Najoung Kim and Kathryn Davidson (accepted for publication). ‘Fake reefs are sometimes reefs and sometimes not, but are always compositional’. Experiments in Linguistic Meaning 3. Philadelphia, United States. [\[Slides\]](https://docs.google.com/presentation/d/1S9PXYFUOFRAhwnx-5ELnD78BZ4OYgvDH2WEGNcIVVPs/edit?usp=sharing) [\[Preprint\]](https://lingbuzz.net/lingbuzz/008012)
+**Hayley Ross**, Najoung Kim and Kathryn Davidson (_accepted for publication_). ‘Fake reefs are sometimes reefs and sometimes not, but are always compositional’. Experiments in Linguistic Meaning 3. Philadelphia, United States. [\[Slides\]](https://docs.google.com/presentation/d/1S9PXYFUOFRAhwnx-5ELnD78BZ4OYgvDH2WEGNcIVVPs/edit?usp=sharing) [\[Preprint\]](https://lingbuzz.net/lingbuzz/008012)
 
 ### 2023
 
