@@ -31,12 +31,12 @@ Bonan Min, **Hayley Ross**, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguye
 
 ## Manuscripts and Work in Progress
 
-We conducted follow-up work to Ross, Davidson and Chierchia (2023) to further investigate weak crossover with proper names and indefinites. What we found, surprisingly, is that discourse/information structure may ameliorate or entirely remove effects of weak crossover not just for proper names (as suggested by previous literature), but also potentially for indefinites and universal quantifiers, if the experiment is correct. The results, however, are difficult to interpret, and it is difficult to design an experiment to probe this effectively. I'm sharing the initial, unpublished results here in the hope that someone else will find this useful and be able to continue this work.
-
 **Hayley Ross** (2024). ‘New experiments on indefinite crossover’. Squib for LING 207, Topics in Semantics, taught by Gennaro Chierchia and Kathryn Davidson in Spring 2024.  [\[Squib\]](LING207-IndefiniteCrossover-Squib.pdf)  [\[Slides with experiment results\]](/assets/publications/IndefiniteCrossoverPreliminaryResults.pdf)  [\[Experiment items (xlsx)\]](/assets/publications/IndefiniteCrossoverExperimentExamples.xlsx)
 
-I wrote a squib on demonstratives and strong definites in German and Swiss German, which contains a more comprehensive overview of the data in Standard and Swiss German than I'm aware of in any other literature. While the theoretical implications remain to be worked out, I've provided the squib below so that other people may work with the data.
+<p style="font-size: 0.7em !important">We conducted follow-up work to Ross, Davidson and Chierchia (2023) to further investigate weak crossover with proper names and indefinites. What we found, surprisingly, is that discourse/information structure may ameliorate or entirely remove effects of weak crossover not just for proper names (as suggested by previous literature), but also potentially for indefinites and universal quantifiers, if the experiment is correct. The results, however, are difficult to interpret, and it is difficult to design an experiment to probe this effectively. I'm sharing the initial, unpublished results here in the hope that someone else will find this useful and be able to continue this work.</p>
 
 **Hayley Ross** (2022). ‘The landscape of German definites and demonstratives’. Squib for LING 207, Topics in Semantics, taught by Gennaro Chierchia and Yağmur Sağ in Spring 2022.  [\[Link\]](/assets/publications/GermanDemonstratives-Squib_revised.pdf)
+
+<p style="font-size: 0.7em !important">I wrote a squib on demonstratives and strong definites in German and Swiss German, which contains a more comprehensive overview of the data in Standard and Swiss German than I'm aware of in any other literature. While the theoretical implications remain to be worked out, by sharing this, hopefully other people can work with this data.</p>
 
 
